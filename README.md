@@ -75,6 +75,6 @@ Telegram-боты       ███████████████░░░�
 
 <div align="center">
 
-**Заказать →** [Кворк](https://kwork.ru) &nbsp;&nbsp;|&nbsp;&nbsp; **Написать →** Telegram
+**Заказать →** [Кворк](https://kwork.ru) &nbsp;&nbsp;|&nbsp;&nbsp; **Написать →** Telegram @vav_bor
 
 </div>
